@@ -894,7 +894,7 @@ section {
 
 .portfolio-details .portfolio-info {
   padding: 30px;
-  box-shadow: 0px 0 30px rgba(21, 21, 21, 0.08);
+  box-shadow: 0px 0 30px rgba(21, 21, 21, 0);
 }
 
 .portfolio-details .portfolio-info h3 {
